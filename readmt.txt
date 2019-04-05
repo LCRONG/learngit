@@ -2,3 +2,4 @@ bbbbbb
 test git log command
 test feature
 Fast forward
+fast forward2
