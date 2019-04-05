@@ -4,3 +4,4 @@ master test
 test feature
 Fast forward
 fast forward2
+fast forward3
