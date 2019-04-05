@@ -2,4 +2,4 @@ bbbbbb
 test git log command
 master test
 test feature
-
+Fast forward
