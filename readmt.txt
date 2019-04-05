@@ -5,3 +5,4 @@ test feature
 Fast forward
 fast forward2
 fast forward3
+fast forward4
